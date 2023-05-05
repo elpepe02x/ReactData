@@ -1,0 +1,390 @@
+{
+    "response": {
+      "ds_Articulo": {
+        "ds_Articulo": {
+          "ttArticulo": [
+            {
+              "cCveCia": "",
+              "iArticulo": 53,
+              "cDescripcion": "Agua Fresca",
+              "deValores": [
+                50.0,
+                0.0,
+                0.0,
+                25.0,
+                50.0,
+                135.0,
+                75.0
+              ],
+              "deValorTotal": 335.0,
+              "iGrupoID": 0
+            },
+            {
+              "cCveCia": "",
+              "iArticulo": 54,
+              "cDescripcion": "Coca Cola",
+              "deValores": [
+                20.0,
+                0.0,
+                60.0,
+                100.0,
+                60.0,
+                380.0,
+                120.0
+              ],
+              "deValorTotal": 740.0,
+              "iGrupoID": 0
+            },
+            {
+              "cCveCia": "",
+              "iArticulo": 55,
+              "cDescripcion": "Sprite",
+              "deValores": [
+                0.0,
+                0.0,
+                0.0,
+                40.0,
+                0.0,
+                20.0,
+                0.0
+              ],
+              "deValorTotal": 60.0,
+              "iGrupoID": 0
+            },
+            {
+              "cCveCia": "",
+              "iArticulo": 56,
+              "cDescripcion": "Coca Cero",
+              "deValores": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                20.0,
+                0.0,
+                0.0
+              ],
+              "deValorTotal": 20.0,
+              "iGrupoID": 0
+            },
+            {
+              "cCveCia": "",
+              "iArticulo": 57,
+              "cDescripcion": "Fanta",
+              "deValores": [
+                20.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                40.0,
+                0.0
+              ],
+              "deValorTotal": 60.0,
+              "iGrupoID": 0
+            },
+            {
+              "cCveCia": "",
+              "iArticulo": 58,
+              "cDescripcion": "Mundet",
+              "deValores": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                20.0,
+                40.0,
+                0.0
+              ],
+              "deValorTotal": 60.0,
+              "iGrupoID": 0
+            },
+            {
+              "cCveCia": "",
+              "iArticulo": 61,
+              "cDescripcion": "Boing de Mango",
+              "deValores": [
+                0.0,
+                0.0,
+                20.0,
+                0.0,
+                40.0,
+                100.0,
+                40.0
+              ],
+              "deValorTotal": 200.0,
+              "iGrupoID": 0
+            },
+            {
+              "cCveCia": "",
+              "iArticulo": 62,
+              "cDescripcion": "Boing de Guayaba",
+              "deValores": [
+                0.0,
+                0.0,
+                0.0,
+                40.0,
+                20.0,
+                0.0,
+                0.0
+              ],
+              "deValorTotal": 60.0,
+              "iGrupoID": 0
+            },
+            {
+              "cCveCia": "",
+              "iArticulo": 63,
+              "cDescripcion": "Chocolate con Agua",
+              "deValores": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                25.0
+              ],
+              "deValorTotal": 25.0,
+              "iGrupoID": 0
+            },
+            {
+              "cCveCia": "",
+              "iArticulo": 64,
+              "cDescripcion": "Jugo de Naranja",
+              "deValores": [
+                0.0,
+                0.0,
+                0.0,
+                25.0,
+                0.0,
+                0.0,
+                25.0
+              ],
+              "deValorTotal": 50.0,
+              "iGrupoID": 0
+            },
+            {
+              "cCveCia": "",
+              "iArticulo": 67,
+              "cDescripcion": "Agua para Nescafe",
+              "deValores": [
+                0.0,
+                0.0,
+                0.0,
+                15.0,
+                60.0,
+                30.0,
+                60.0
+              ],
+              "deValorTotal": 165.0,
+              "iGrupoID": 0
+            },
+            {
+              "cCveCia": "",
+              "iArticulo": 68,
+              "cDescripcion": "Pan de Yema",
+              "deValores": [
+                0.0,
+                0.0,
+                0.0,
+                10.0,
+                110.0,
+                50.0,
+                40.0
+              ],
+              "deValorTotal": 210.0,
+              "iGrupoID": 0
+            },
+            {
+              "cCveCia": "",
+              "iArticulo": 218,
+              "cDescripcion": "Chocolate con leche",
+              "deValores": [
+                0.0,
+                0.0,
+                0.0,
+                50.0,
+                125.0,
+                175.0,
+                325.0
+              ],
+              "deValorTotal": 675.0,
+              "iGrupoID": 0
+            },
+            {
+              "cCveCia": "",
+              "iArticulo": 252,
+              "cDescripcion": "PAN DE MOLLETE",
+              "deValores": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                52.0,
+                0.0,
+                0.0
+              ],
+              "deValorTotal": 52.0,
+              "iGrupoID": 0
+            },
+            {
+              "cCveCia": "OJEDA",
+              "iArticulo": 59,
+              "cDescripcion": "Valle Frut",
+              "deValores": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+              ],
+              "deValorTotal": 0.0,
+              "iGrupoID": 3
+            },
+            {
+              "cCveCia": "OJEDA",
+              "iArticulo": 60,
+              "cDescripcion": "Prisco Rojo",
+              "deValores": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+              ],
+              "deValorTotal": 0.0,
+              "iGrupoID": 3
+            },
+            {
+              "cCveCia": "OJEDA",
+              "iArticulo": 65,
+              "cDescripcion": "Te de Manzanilla",
+              "deValores": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+              ],
+              "deValorTotal": 0.0,
+              "iGrupoID": 3
+            },
+            {
+              "cCveCia": "OJEDA",
+              "iArticulo": 66,
+              "cDescripcion": "Te Limon",
+              "deValores": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+              ],
+              "deValorTotal": 0.0,
+              "iGrupoID": 3
+            },
+            {
+              "cCveCia": "OJEDA",
+              "iArticulo": 219,
+              "cDescripcion": "Café con Leche",
+              "deValores": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+              ],
+              "deValorTotal": 0.0,
+              "iGrupoID": 3
+            },
+            {
+              "cCveCia": "OJEDA",
+              "iArticulo": 220,
+              "cDescripcion": "Leche caliente Deslactoza",
+              "deValores": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+              ],
+              "deValorTotal": 0.0,
+              "iGrupoID": 3
+            },
+            {
+              "cCveCia": "OJEDA",
+              "iArticulo": 221,
+              "cDescripcion": "Leche caliente Entera",
+              "deValores": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+              ],
+              "deValorTotal": 0.0,
+              "iGrupoID": 3
+            },
+            {
+              "cCveCia": "OJEDA",
+              "iArticulo": 314,
+              "cDescripcion": "CHOCOLATE DESLACTOSADA",
+              "deValores": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+              ],
+              "deValorTotal": 0.0,
+              "iGrupoID": 3
+            },
+            {
+              "cCveCia": "OJEDA",
+              "iArticulo": 319,
+              "cDescripcion": "CAFÉ CON CREMA",
+              "deValores": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+              ],
+              "deValorTotal": 0.0,
+              "iGrupoID": 3
+            }
+          ]
+        }
+      },
+      "opdeTotales": [
+        90,
+        0,
+        80,
+        305,
+        557,
+        970,
+        710,
+        2712
+      ],
+      "oplResultado": "false",
+      "opcTexto": ""
+    }
+  }
